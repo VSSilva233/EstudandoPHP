@@ -6,7 +6,7 @@
 	
 </head>
 <body>
-<div>
+	<div>
 	<?php
 		
 		// Declarando Váriaveis em PHP
@@ -24,14 +24,8 @@
 		
 		//Exemplo dois
 		echo $nome." tem ".$idade." anos!<br />";
-		
-		
-		
-		
-		
-		
-		
+
 	?>
-</div>
+	</div>
 </body>
 </html>
