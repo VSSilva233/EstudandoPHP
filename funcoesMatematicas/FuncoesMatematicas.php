@@ -20,7 +20,16 @@
 		//Função SQRT(Raiz quadrada)
 		echo"<br />A raiz de $v1 e " . sqrt($v1);
 		
-		//Funç
+		//Função Round(Arredonda o valor)
+		echo"<br />O valor de $v2 arredondado e " . round($v2);
+		
+		//Função Intval(Pega a parte inteira do numero)
+		echo "<br />A parte inteira de $v2 e" . intval($v2);
+		
+		//Função Number_format()
+		echo "<br />o valor de $v1 em moeda e R$" . number_format($v1,2);
+		
+		
 		?>
 		
 	</div>
